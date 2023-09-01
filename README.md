@@ -1,0 +1,1 @@
+﻿This is my idle RPG game project in C#, using Monogame.
